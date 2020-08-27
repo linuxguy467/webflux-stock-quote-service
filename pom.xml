@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.matthem</groupId>
-    <artifactId>weblux-stock-quote-service</artifactId>
+    <artifactId>webflux-stock-quote-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>webflux-stock-quote-service</name>
     <description>WebFlux Stock Quote Service</description>
